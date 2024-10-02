@@ -1,2 +1,3 @@
-# Waste-Management-System
-A Waste Management System created HTML, CSS and JavaScript
+# Waste-management-system
+
+Hello World
